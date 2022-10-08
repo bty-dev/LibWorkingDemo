@@ -16,5 +16,12 @@
             return result;
         }
 
+        public int getRandomAge()
+        {
+            Random random = new Random();
+            var result = random.Next(100);
+            return result;
+        }
+
     }
 }
