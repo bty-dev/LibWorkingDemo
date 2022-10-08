@@ -7,3 +7,5 @@ Console.WriteLine(ageCategory);
 
 var randAge = ageLim.getRandomAge();
 Console.WriteLine($"Here is random age: {randAge}");
+
+Console.WriteLine("Thanks for downloading my lib! :)");
